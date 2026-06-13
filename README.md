@@ -58,6 +58,29 @@ A smart healthcare web platform designed to connect rural patients with verified
 
 
 ---
+# AI-Powered Phishing Detection System
+
+A machine learning-based web application that classifies emails and messages as phishing or legitimate.
+
+## Features
+
+* Phishing/Safe prediction
+* Confidence score generation
+* Real-time analysis
+* Interactive web interface
+
+## Tech Stack
+
+* Python
+* Flask
+* HTML/CSS/JavaScript
+* Scikit-Learn
+
+## Future Improvements
+
+* URL risk analysis
+* Enhanced dataset
+* Advanced NLP techniques
 
 
   ### 📘 AI-Powered Student Productivity Tracker *(In Progress)*
